@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">InstaClient</string>
+    <string name="action_logoff">Log Off</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="like_picture">Like</string>
+    <string name="login_text">Login to Instagram</string>
+    <string name="please_wait">Please Wait</string>
+    <string name="instagram_authentication">Instagram Authentication</string>
+    <string name="authentication_failed">Authentication Failed</string>
+    <string name="requesting_access_token">Requesting AccessToken</string>
+    <string name="failed_to_get_access_token">Unable to Login - No AccessToken</string>
+    <string name="no_popularpicture_switcher">Unable to show Popular Pictures</string>
+    <string name="error_downloading_pictures">Error while downloading Popular Pictures</string>
+</resources>
